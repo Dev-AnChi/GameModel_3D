@@ -1,0 +1,33 @@
+{
+  "container": "glTF 2.0 binary",
+  "bytes": 16055000,
+  "nodes": 3345,
+  "meshes": 2020,
+  "materials": 36,
+  "triangles": 385629,
+  "zones": [
+    "01 | Rooftop garden",
+    "02 | Living room",
+    "03 | Moon bedroom",
+    "04 | Playground",
+    "05 | Outdoor dining",
+    "06 | Beach and pier"
+  ],
+  "errors": [],
+  "textures": 0,
+  "limitations": [
+    "Procedural color/noise/bump represented by calibrated base colors; no baked textures.",
+    "Sky/cloud/distant-island backdrop, lights and cameras excluded from gameplay export.",
+    "Water/glass portable tint/alpha; Blender refraction, GI and atmosphere not transferred.",
+    "Godot visual parity and mobile performance not verified."
+  ],
+  "blender_roundtrip": {
+    "imported_objects": 3345,
+    "imported_mesh_objects": 3345,
+    "missing_materials": [],
+    "empty_meshes": [],
+    "preview": "renders/glb_roundtrip_check.png",
+    "lighting_note": "Preview uses the Blender light rig; Godot rendering not tested."
+  },
+  "instanced_scene_triangle_count": 407397
+}

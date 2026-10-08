@@ -1,0 +1,61 @@
+{
+  "terrain": [
+    {
+      "object": "Organic primary terrace rock_00",
+      "triangles": 16300,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "object": "Organic primary terrace rock_01",
+      "triangles": 10118,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "object": "Organic primary terrace rock_02",
+      "triangles": 14650,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "object": "Organic primary terrace rock_03",
+      "triangles": 10330,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "object": "Organic primary terrace rock_04",
+      "triangles": 15748,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    },
+    {
+      "object": "Organic primary terrace rock_05",
+      "triangles": 17188,
+      "nonmanifold_edges": 0,
+      "degenerate_faces": 0
+    }
+  ],
+  "terrain_and_four_cascades_vs_105_treads_surface_overlaps": {},
+  "changed_stair_or_terrace_matrices": [],
+  "scene_objects_before": 3900,
+  "scene_objects_final": 3915,
+  "render_enabled_objects_before": 3707,
+  "render_enabled_objects_final": 3547,
+  "render_enabled_evaluated_triangles": 1504975,
+  "render_enabled_geometry_objects": 3527,
+  "missing_materials": [],
+  "active_camera": "Camera_Overview",
+  "frame": 75,
+  "flow_shader_offsets_frame76": [
+    0.009,
+    0.017,
+    0.026
+  ],
+  "flow_shader_offsets_frame75": [
+    0,
+    0,
+    0
+  ]
+}
