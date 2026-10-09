@@ -1,0 +1,68 @@
+[
+  {
+    "path": "textures\\water\\oga_waterfall_1.png",
+    "size": [
+      512,
+      512
+    ],
+    "bytes": 470831,
+    "sha256": "88ece207adde7142342f6c8bfae6af307e8d39f0f7248b048d249a300e2701f6",
+    "vertical_wrap_edge_mean_rgb_difference": 37.434244791666664,
+    "adjacent_top_rows_mean_rgb_difference": 5.415364583333333
+  },
+  {
+    "path": "textures\\water\\wave-normal-map\\water-wave-normal-map-1k\\ambientOcclusion.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 180920,
+    "sha256": "e947babca6276e71a0902211007a1cc1ca23763eae1b1d08453f6b7f5850b015",
+    "vertical_wrap_edge_mean_rgb_difference": 0.9228515625,
+    "adjacent_top_rows_mean_rgb_difference": 0.0537109375
+  },
+  {
+    "path": "textures\\water\\wave-normal-map\\water-wave-normal-map-1k\\baseColor.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 1041546,
+    "sha256": "23d6046bd8408037a454f47bfb96757f00af4b67109f5d509b8925fc0656f345",
+    "vertical_wrap_edge_mean_rgb_difference": 14.3310546875,
+    "adjacent_top_rows_mean_rgb_difference": 0.7978515625
+  },
+  {
+    "path": "textures\\water\\wave-normal-map\\water-wave-normal-map-1k\\height.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 513208,
+    "sha256": "f93959b5269e7b428839c535ffe39ba49d8cf8af154210a42a15d57a467e2f02",
+    "vertical_wrap_edge_mean_rgb_difference": 34.46875,
+    "adjacent_top_rows_mean_rgb_difference": 1.8974609375
+  },
+  {
+    "path": "textures\\water\\wave-normal-map\\water-wave-normal-map-1k\\normal.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 821327,
+    "sha256": "bf8577dc7969569edc54c84f5b07d5c152ea91905911b416a6cfc702f7e7b372",
+    "vertical_wrap_edge_mean_rgb_difference": 2.5068359375,
+    "adjacent_top_rows_mean_rgb_difference": 20.6025390625
+  },
+  {
+    "path": "textures\\water\\wave-normal-map\\water-wave-normal-map-1k\\roughness.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 149223,
+    "sha256": "673fae3469578b2eff1e7dcd5bbc4287f65848468a8775ae813e2be7a48c01db",
+    "vertical_wrap_edge_mean_rgb_difference": 0.984375,
+    "adjacent_top_rows_mean_rgb_difference": 0.0322265625
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "frames": 300,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "fps": 30.0,
+    "source_size": [
+      464,
+      600
+    ],
+    "size": [
+      464,
+      600
+    ],
+    "rotate": 0,
+    "duration": 10.0
+  },
+  "mean_adjacent_rgb_difference": 0.3724388647022642,
+  "mean_adjacent_flow_roi_rgb_difference": 1.0587115833391296
+}

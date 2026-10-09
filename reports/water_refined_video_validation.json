@@ -1,0 +1,23 @@
+{
+  "decoded_frames": 300,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "fps": 30.0,
+    "source_size": [
+      464,
+      600
+    ],
+    "size": [
+      464,
+      600
+    ],
+    "rotate": 0,
+    "duration": 10.0
+  },
+  "mean_adjacent_flow_rgb_difference": 1.7235355074815726,
+  "render_frame_1_301_mean_rgb_difference": 0.046023706896551726,
+  "pass_a_sha256": "76b05e384b7a307b6bd9e2fc5c49ece58b1368ef677f848926a6194ac0fb4a72",
+  "note": "Metrics verify the exported video; visual approval remains required. Frame 300 is one step before frame 301."
+}

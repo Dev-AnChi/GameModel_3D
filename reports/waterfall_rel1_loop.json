@@ -1,0 +1,9 @@
+{
+  "frame_1_301_geometry_max_delta": 0.0,
+  "flow_cycles": 7,
+  "flow_source_frames": 11,
+  "ripple_source_frames": 6,
+  "normal_cycles": 19,
+  "breakup_cycles": 5,
+  "breakup_method": "4D noise with sine/cosine phase, continuous periodic loop"
+}

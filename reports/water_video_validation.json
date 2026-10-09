@@ -1,0 +1,94 @@
+{
+  "decoded_frames": 300,
+  "metadata": {
+    "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+    "codec": "h264",
+    "pix_fmt": "yuv420p(tv, bt709, progressive)",
+    "fps": 30.0,
+    "source_size": [
+      464,
+      600
+    ],
+    "size": [
+      464,
+      600
+    ],
+    "rotate": 0,
+    "duration": 10.0
+  },
+  "flow_region_adjacent_mean_rgb_difference": 0.13465474665975136,
+  "flow_region_adjacent_max_rgb_difference": 0.7306155075939249,
+  "last_to_first_mean_rgb_difference": 1.2921204501915708,
+  "full_frame_adjacent_mean_rgb_difference": 0.1377523778175015,
+  "full_frame_adjacent_max_rgb_difference": 1.3230172413793104,
+  "largest_adjacent_frame_steps": [
+    [
+      18,
+      1.3230172413793104
+    ],
+    [
+      288,
+      1.1499724616858238
+    ],
+    [
+      162,
+      0.8967001915708813
+    ],
+    [
+      108,
+      0.8947689176245212
+    ],
+    [
+      54,
+      0.8894013409961686
+    ],
+    [
+      36,
+      0.8886973180076628
+    ],
+    [
+      216,
+      0.8840541187739465
+    ],
+    [
+      72,
+      0.8824054118773946
+    ],
+    [
+      234,
+      0.8821623563218391
+    ],
+    [
+      90,
+      0.8719600095785441
+    ]
+  ],
+  "loop_flow_region_mean_rgb_difference": 0.7269864108713029,
+  "note": "Last frame is t=299/300; first is t=0. They are expected to differ by one animation step, not to be identical.",
+  "rendered_frame_1_301_mean_rgb_difference": 0.04529214559386974,
+  "video_first_vs_rendered_first_mean_rgb_difference": 2.0989523467432947,
+  "vertical_profile_motion_diagnostic": {
+    "median_best_shift_px": 0.0,
+    "positive_downward_fraction": 0.36666666666666664,
+    "note": "Temporal-mean-subtracted image profile cross-correlation; diagnostic, not a fluid velocity measurement."
+  },
+  "h264_keyframe_indices_zero_based": [
+    0,
+    18,
+    36,
+    54,
+    72,
+    90,
+    108,
+    126,
+    144,
+    162,
+    180,
+    198,
+    216,
+    234,
+    252,
+    270,
+    288
+  ]
+}

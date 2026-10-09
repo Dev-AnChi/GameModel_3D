@@ -1,0 +1,153 @@
+{
+  "b3d_magic": "BB3D",
+  "b3d_version": 1,
+  "b3d_chunks": [
+    {
+      "tag": "TEXS",
+      "bytes": 47,
+      "level": 0
+    },
+    {
+      "tag": "BRUS",
+      "bytes": 43,
+      "level": 0
+    },
+    {
+      "tag": "NODE",
+      "bytes": 5646,
+      "level": 0
+    },
+    {
+      "tag": "MESH",
+      "bytes": 5580,
+      "level": 1
+    },
+    {
+      "tag": "VRTS",
+      "bytes": 3612,
+      "level": 2
+    },
+    {
+      "tag": "TRIS",
+      "bytes": 1948,
+      "level": 2
+    }
+  ],
+  "files": [
+    {
+      "name": "flow_atlas.png",
+      "bytes": 459891,
+      "sha256": "b1792d54fe9e63cf44b0e23985a7a7e1b662ea1dd8b140e971ef248f0f3c9cb2"
+    },
+    {
+      "name": "foam_particle.png",
+      "bytes": 133630,
+      "sha256": "06dea44bcc9910b852f42815af40c236f68371248d6c86466c53b9d1b828c1da"
+    },
+    {
+      "name": "readme.txt",
+      "bytes": 1162,
+      "sha256": "0f73fc2aca77fae13a999b18f65aea666bf7b3c5d82ba5a609f1fcfb82a630b9"
+    },
+    {
+      "name": "ripple_atlas.png",
+      "bytes": 235340,
+      "sha256": "e2bea7d7ca6b1c956bba44541755c312e1a8de9a7c54f61731e6771def340644"
+    },
+    {
+      "name": "waterfall.b3d",
+      "bytes": 5772,
+      "sha256": "bab73cf0681fcafffb1e03539a010e168405991d6672fdd8c0abfe86b8427588"
+    },
+    {
+      "name": "waterfall_behind.png",
+      "bytes": 60649,
+      "sha256": "508858d6701faddc5dffd36c6f0d39b6b757e4e055d36488a60465ffddf7c71d"
+    },
+    {
+      "name": "waterfall_tex0.jpg",
+      "bytes": 8338,
+      "sha256": "d9d7d6151edb9c6a8dbbe3f83b4869e7217dbe15e8a6dbdabce8e6d84606ab42"
+    },
+    {
+      "name": "waterfall_tex1.jpg",
+      "bytes": 8573,
+      "sha256": "cc2fa4ea8339269ffb8631f186e458890ea1ceb9fabf7faa15b058d997ffe5a2"
+    },
+    {
+      "name": "waterfall_tex10.jpg",
+      "bytes": 8243,
+      "sha256": "76649dc70167e4fa4ce812313a56228d10a50428675d71559feed419db4ca80e"
+    },
+    {
+      "name": "waterfall_tex2.jpg",
+      "bytes": 8197,
+      "sha256": "edc4aefdb02736b9c70fa871d1009e23f54e58d22f85118bf231d1d798382309"
+    },
+    {
+      "name": "waterfall_tex3.jpg",
+      "bytes": 8091,
+      "sha256": "ace148e7abbb12d87ad0fd733c63249e4c65f5ee0d2b71f69569ee365edd98ab"
+    },
+    {
+      "name": "waterfall_tex4.jpg",
+      "bytes": 7997,
+      "sha256": "3582bf80c6b12ae93fe9208c8a391be8d963af387cf6f3c557a413213ff13810"
+    },
+    {
+      "name": "waterfall_tex5.jpg",
+      "bytes": 7695,
+      "sha256": "5532436c732dcf7cb02448669b5331ecf5a6a78d103b1790d19cd079830a4c28"
+    },
+    {
+      "name": "waterfall_tex6.jpg",
+      "bytes": 7664,
+      "sha256": "9bd7988202e2c92fa6d58e757dfb50123ba0c9fee4e1396ff2ed0ea3d4137e05"
+    },
+    {
+      "name": "waterfall_tex7.jpg",
+      "bytes": 7791,
+      "sha256": "7826163fb6822df6326bdc7a0b811780755a95c6bbfc1ebc8a4de0abe23847fc"
+    },
+    {
+      "name": "waterfall_tex8.jpg",
+      "bytes": 7748,
+      "sha256": "15c47e80c4ca7bd4ff13bf25a4644147b6bd4bc441334fa3fdd6a19204bdd1c7"
+    },
+    {
+      "name": "waterfall_tex9.jpg",
+      "bytes": 7965,
+      "sha256": "e0d5565ad523648788161045ba900130cd37b06b23bb69e4e3d0927428f373bd"
+    },
+    {
+      "name": "waves_concent_tex1.png",
+      "bytes": 44789,
+      "sha256": "790c29b1df63279c73b9f59b04fb7efd19238ae2c5425df1405e52ed1f99e4e6"
+    },
+    {
+      "name": "waves_concent_tex2.png",
+      "bytes": 45001,
+      "sha256": "48bfb9825c3c8d263971edf022f250473f60e8bbce06853dcd00dae65b836727"
+    },
+    {
+      "name": "waves_concent_tex3.png",
+      "bytes": 44839,
+      "sha256": "8a7ec86e02a24be8591dee0a929361fd6829cce92ac3a5dcc3486f8b7ff3bed1"
+    },
+    {
+      "name": "waves_concent_tex4.png",
+      "bytes": 44970,
+      "sha256": "e5f91759464eff6d321ec79c76e85438f3affc94b7a55e9bdaa70e04dcf50e04"
+    },
+    {
+      "name": "waves_concent_tex5.png",
+      "bytes": 45108,
+      "sha256": "d2a3b9ef043173a5b354cdf4e8cf29c4052d6bffa73a2cb121838ac4cb292880"
+    },
+    {
+      "name": "waves_concent_tex6.png",
+      "bytes": 44268,
+      "sha256": "92f6bde921d3bf211e4c4fb7e6722dde7ce8ebd420523b6c2f7e6d8dee288a7f"
+    }
+  ]
+}
