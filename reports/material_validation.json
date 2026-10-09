@@ -1,0 +1,660 @@
+{
+  "original_objects": 3915,
+  "current_source_objects": 3916,
+  "geometry_transform_modifier_action_changes": [],
+  "missing_original_objects": [],
+  "new_objects": [
+    "M37_Camera_OrganicCliff"
+  ],
+  "images": [
+    {
+      "name": "monochrome_studio_03_1k",
+      "size": [
+        1024,
+        512
+      ],
+      "packed": true,
+      "space": "Linear Rec.709",
+      "correct_space": true
+    },
+    {
+      "name": "oak_wood_planks_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "sRGB",
+      "correct_space": true
+    },
+    {
+      "name": "oak_wood_planks_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    },
+    {
+      "name": "oak_wood_planks_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    },
+    {
+      "name": "oak_wood_planks_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    },
+    {
+      "name": "rock_face_03_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "sRGB",
+      "correct_space": true
+    },
+    {
+      "name": "rock_face_03_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    },
+    {
+      "name": "rock_face_03_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    },
+    {
+      "name": "rock_face_03_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true,
+      "space": "Non-Color",
+      "correct_space": true
+    }
+  ],
+  "invalid_shader_outputs": [],
+  "material_animation_checks": [
+    {
+      "source": "Organic | flowing water lane 0",
+      "material": "M37 | Organic | flowing water lane 0.001",
+      "drivers": [
+        [
+          "nodes[\"Vector Math.001\"].inputs[1].default_value",
+          2,
+          "(frame-75)*0.009"
+        ]
+      ],
+      "preserved": true
+    },
+    {
+      "source": "Organic | flowing water lane 1",
+      "material": "M37 | Organic | flowing water lane 1.001",
+      "drivers": [
+        [
+          "nodes[\"Vector Math.001\"].inputs[1].default_value",
+          2,
+          "(frame-75)*0.017"
+        ]
+      ],
+      "preserved": true
+    },
+    {
+      "source": "Organic | flowing water lane 2",
+      "material": "M37 | Organic | flowing water lane 2.001",
+      "drivers": [
+        [
+          "nodes[\"Vector Math.001\"].inputs[1].default_value",
+          2,
+          "(frame-75)*0.026"
+        ]
+      ],
+      "preserved": true
+    }
+  ],
+  "engine": "BLENDER_EEVEE",
+  "color_management": {
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.10000000149011612,
+    "gamma": 1.0
+  },
+  "render_samples": 128,
+  "compatibility": [
+    {
+      "name": "Botanical | deep vine stems",
+      "category": "Leaves",
+      "godot": "DIRECT_GLTF_PRINCIPLED_CONSTANTS",
+      "visible_users": 0
+    },
+    {
+      "name": "Botanical | textured warm bark",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Environment | clear pastel sky",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 1
+    },
+    {
+      "name": "Environment | hazy distant rock",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 16
+    },
+    {
+      "name": "Environment | hazy island foliage",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 16
+    },
+    {
+      "name": "Environment | pearl cloud",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 0
+    },
+    {
+      "name": "Flower golden heart",
+      "category": "Flowers",
+      "godot": "DIRECT_GLTF_PRINCIPLED_CONSTANTS",
+      "visible_users": 0
+    },
+    {
+      "name": "Ivory blossoms",
+      "category": "Flowers",
+      "godot": "DIRECT_GLTF_PRINCIPLED_CONSTANTS",
+      "visible_users": 0
+    },
+    {
+      "name": "Leaf | fresh green",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Leaf | golden tips",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Leaf | jade",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "M37 | Book spine 0",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 5
+    },
+    {
+      "name": "M37 | Book spine 1",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 5
+    },
+    {
+      "name": "M37 | Book spine 2",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 6
+    },
+    {
+      "name": "M37 | Book spine 3",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Botanical | cliff moss",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 18
+    },
+    {
+      "name": "M37 | Botanical | deep vine stems",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 200
+    },
+    {
+      "name": "M37 | Botanical | textured warm bark | axis 2",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Botanical | waxy pond lily pads",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Detail | mellow bronze",
+      "category": "Metal",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Detail | quiet gold embroidery",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Detail | sage ceramic glaze",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Detail | warm linen seams.003",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 25
+    },
+    {
+      "name": "M37 | Fabric | lavender blue",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Fabric | lilac folded curtains",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 2
+    },
+    {
+      "name": "M37 | Fabric | quiet sage umbrella panels",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 2
+    },
+    {
+      "name": "M37 | Fabric | sage linen.003",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 5
+    },
+    {
+      "name": "M37 | Fabric | soft moon quilt",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Fabric | warm ivory.003",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 29
+    },
+    {
+      "name": "M37 | Flower golden heart",
+      "category": "Flowers",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 277
+    },
+    {
+      "name": "M37 | Greenhouse soft glass",
+      "category": "Glass",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 5
+    },
+    {
+      "name": "M37 | Ground | pale beach sand",
+      "category": "Ground",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 1
+    },
+    {
+      "name": "M37 | Ivory blossoms",
+      "category": "Flowers",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 389
+    },
+    {
+      "name": "M37 | Leaf | fresh green",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 587
+    },
+    {
+      "name": "M37 | Leaf | golden tips",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 577
+    },
+    {
+      "name": "M37 | Leaf | jade",
+      "category": "Leaves",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 724
+    },
+    {
+      "name": "M37 | Natural rope",
+      "category": "Fabric",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 12
+    },
+    {
+      "name": "M37 | Organic | flowing water lane 0.001",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Organic | flowing water lane 1.001",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Organic | flowing water lane 2.001",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Organic | rock with crevice soil and moss.003",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Organic | rock with crevice soil and moss.004",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Pastel pink blossoms",
+      "category": "Flowers",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 535
+    },
+    {
+      "name": "M37 | Pot dark soil",
+      "category": "Ground",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 21
+    },
+    {
+      "name": "M37 | Stone | recessed fine fissure",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 17
+    },
+    {
+      "name": "M37 | Stone | warm limestone 0",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 48
+    },
+    {
+      "name": "M37 | Stone | warm limestone 1",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 50
+    },
+    {
+      "name": "M37 | Stone | warm limestone 2",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 50
+    },
+    {
+      "name": "M37 | Stone | warm limestone 3",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 47
+    },
+    {
+      "name": "M37 | Structure | greenhouse sage",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 15
+    },
+    {
+      "name": "M37 | Terracotta plant pots",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 42
+    },
+    {
+      "name": "M37 | Terracotta playhouse roof",
+      "category": "Decorative materials",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 10
+    },
+    {
+      "name": "M37 | Water | rooftop pond",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 1
+    },
+    {
+      "name": "M37 | Water | translucent waterfall",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Water | turquoise sea",
+      "category": "Water",
+      "godot": "GODOT_SHADER_REWRITE",
+      "visible_users": 1
+    },
+    {
+      "name": "M37 | Wood | golden edge trim | axis 0",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 95
+    },
+    {
+      "name": "M37 | Wood | golden edge trim | axis 1",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 36
+    },
+    {
+      "name": "M37 | Wood | golden edge trim | axis 2",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 112
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 0",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 153
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 0.001",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 3
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 1",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 28
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 1.001",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 2
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 1.002",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 1
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 2",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 221
+    },
+    {
+      "name": "M37 | Wood | honey structural | axis 2.001",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 4
+    },
+    {
+      "name": "M37 | Wood | warm floorboards | axis 0.003",
+      "category": "Wood",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 115
+    },
+    {
+      "name": "Master | warm amber lantern glass",
+      "category": "Glass",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 13
+    },
+    {
+      "name": "Moon lamp warm glow",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 4
+    },
+    {
+      "name": "Organic | cloud depth 0",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 3
+    },
+    {
+      "name": "Organic | cloud depth 1",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 3
+    },
+    {
+      "name": "Organic | cloud depth 2",
+      "category": "Decorative materials",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 2
+    },
+    {
+      "name": "Pastel pink blossoms",
+      "category": "Flowers",
+      "godot": "DIRECT_GLTF_PRINCIPLED_CONSTANTS",
+      "visible_users": 0
+    },
+    {
+      "name": "Stone | warm limestone 0",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Stone | warm limestone 1",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Stone | warm limestone 2",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Stone | warm limestone 3",
+      "category": "Rock",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Water | translucent waterfall",
+      "category": "Water",
+      "godot": "BAKE_REQUIRED",
+      "visible_users": 0
+    },
+    {
+      "name": "Water | warm white foam",
+      "category": "Water",
+      "godot": "BLENDER_BEAUTY_ONLY",
+      "visible_users": 44
+    }
+  ],
+  "groups": [
+    {
+      "category": "Rock",
+      "slots": 218
+    },
+    {
+      "category": "Wood",
+      "slots": 773
+    },
+    {
+      "category": "Fabric",
+      "slots": 85
+    },
+    {
+      "category": "Leaves",
+      "slots": 2109
+    },
+    {
+      "category": "Flowers",
+      "slots": 1201
+    },
+    {
+      "category": "Ground",
+      "slots": 22
+    },
+    {
+      "category": "Water",
+      "slots": 17
+    },
+    {
+      "category": "Metal",
+      "slots": 4
+    },
+    {
+      "category": "Glass",
+      "slots": 5
+    },
+    {
+      "category": "Decorative materials",
+      "slots": 90
+    }
+  ]
+}

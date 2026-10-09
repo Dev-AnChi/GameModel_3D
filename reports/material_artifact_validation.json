@@ -1,0 +1,179 @@
+{
+  "renders": {
+    "material_before_after": {
+      "size": [
+        1800,
+        2205
+      ],
+      "bytes": 2047968,
+      "variance": [
+        1520.8290211899996,
+        1338.1079179899991,
+        1126.5694233743757
+      ]
+    },
+    "wood_material": {
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 782552,
+      "variance": [
+        436.13770486937466,
+        89.73960999437571,
+        70.88393554437458
+      ]
+    },
+    "rock_material": {
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 827265,
+      "variance": [
+        780.002102644375,
+        769.9672775099992,
+        693.811052759999
+      ]
+    },
+    "fabric_material": {
+      "size": [
+        1000,
+        750
+      ],
+      "bytes": 842366,
+      "variance": [
+        1035.308947749999,
+        1008.2435225993753,
+        858.8198749493748
+      ]
+    },
+    "overview_material_final": {
+      "size": [
+        1080,
+        1920
+      ],
+      "bytes": 3184739,
+      "variance": [
+        1746.2466993593753,
+        1990.539066277501,
+        4337.996856044376
+      ]
+    },
+    "living_room_material_final": {
+      "size": [
+        1280,
+        900
+      ],
+      "bytes": 1912195,
+      "variance": [
+        2025.6008668943762,
+        1398.20264375,
+        2158.7214891774997
+      ]
+    },
+    "organic_cliff_material_final": {
+      "size": [
+        1280,
+        900
+      ],
+      "bytes": 1763796,
+      "variance": [
+        1443.4044228243754,
+        1111.6926198974998,
+        1495.4576239999994
+      ]
+    },
+    "rooftop_material_final": {
+      "size": [
+        1280,
+        900
+      ],
+      "bytes": 1890860,
+      "variance": [
+        1378.0963897974998,
+        1065.8414047243743,
+        3882.462078074375
+      ]
+    },
+    "bedroom_material_final": {
+      "size": [
+        1280,
+        900
+      ],
+      "bytes": 1914507,
+      "variance": [
+        2179.8800814193755,
+        1486.6720483243748,
+        2771.2189071099997
+      ]
+    }
+  },
+  "before_after_difference": {
+    "wood": {
+      "mean_absolute_rgb_8bit": [
+        3.400030666666667,
+        6.138581333333334,
+        8.504326666666667
+      ],
+      "same_resolution": true
+    },
+    "rock": {
+      "mean_absolute_rgb_8bit": [
+        3.4095893333333334,
+        3.767884,
+        4.402581333333333
+      ],
+      "same_resolution": true
+    },
+    "fabric": {
+      "mean_absolute_rgb_8bit": [
+        2.012178666666667,
+        2.7755293333333335,
+        3.782502666666667
+      ],
+      "same_resolution": true
+    },
+    "living_room": {
+      "mean_absolute_rgb_8bit": [
+        20.814917534722223,
+        22.490760416666667,
+        23.113631944444446
+      ],
+      "same_resolution": true
+    },
+    "organic_cliff": {
+      "mean_absolute_rgb_8bit": [
+        16.92193142361111,
+        17.372296875,
+        18.49548090277778
+      ],
+      "same_resolution": true
+    },
+    "rooftop": {
+      "mean_absolute_rgb_8bit": [
+        11.6903046875,
+        12.04259375,
+        13.51616579861111
+      ],
+      "same_resolution": true
+    },
+    "bedroom": {
+      "mean_absolute_rgb_8bit": [
+        22.251502604166667,
+        21.440653645833333,
+        21.392657118055556
+      ],
+      "same_resolution": true
+    },
+    "overview": {
+      "mean_absolute_rgb_8bit": [
+        11.21159861111111,
+        11.331069444444445,
+        11.70755138888889
+      ],
+      "same_resolution": false
+    }
+  },
+  "reports_utf8_nfc": true
+}
