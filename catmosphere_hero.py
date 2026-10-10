@@ -101,6 +101,10 @@ def phase_a():
 def render(name,samples=64,width=756,height=1344,camera=None):
     bpy.context.window.scene=S;S.frame_set(75);S.camera=camera or bpy.data.objects['HERO | Main portrait camera']
     S.render.resolution_x=width;S.render.resolution_y=height;S.eevee.taa_render_samples=samples
+    if S.compositing_node_group:
+        for node in S.compositing_node_group.nodes:
+            if node.bl_idname=='CompositorNodeScale':
+                node.inputs['X'].default_value=width/941;node.inputs['Y'].default_value=width/941
     S.render.image_settings.media_type='IMAGE';S.render.image_settings.file_format='PNG';S.render.filepath=ROOT+'/renders/'+name
     bpy.ops.render.render(write_still=True,scene=S.name)
 

@@ -1,0 +1,159 @@
+{
+  "blend": "C:\\Game\\GameModel_3D\\Catmosphere_Hero_Environment.blend",
+  "frame_range": [
+    1,
+    300
+  ],
+  "fps": 30,
+  "new_cascades": 10,
+  "intermediate_pools": 5,
+  "spray_mesh_particles": 90,
+  "particle_loop_1_301_max_error": 0.0,
+  "water_materials": [
+    {
+      "material": "HERO | Turquoise aerated flowing water",
+      "images": [
+        "doodlebuilt_waterfall_fx.png",
+        "normal.png"
+      ],
+      "drivers": [
+        {
+          "expression": "-(frame-1)*7/300",
+          "valid": true
+        },
+        {
+          "expression": "-(frame-1)*19/300",
+          "valid": true
+        }
+      ]
+    },
+    {
+      "material": "HERO | Airborne taper 0",
+      "images": [
+        "doodlebuilt_waterfall_fx.png",
+        "normal.png"
+      ],
+      "drivers": [
+        {
+          "expression": "-(frame-1)*7/300",
+          "valid": true
+        },
+        {
+          "expression": "-(frame-1)*19/300",
+          "valid": true
+        }
+      ]
+    },
+    {
+      "material": "HERO | Airborne taper 1",
+      "images": [
+        "doodlebuilt_waterfall_fx.png",
+        "normal.png"
+      ],
+      "drivers": [
+        {
+          "expression": "-(frame-1)*7/300",
+          "valid": true
+        },
+        {
+          "expression": "-(frame-1)*19/300",
+          "valid": true
+        }
+      ]
+    },
+    {
+      "material": "HERO | Airborne taper 2",
+      "images": [
+        "doodlebuilt_waterfall_fx.png",
+        "normal.png"
+      ],
+      "drivers": [
+        {
+          "expression": "-(frame-1)*7/300",
+          "valid": true
+        },
+        {
+          "expression": "-(frame-1)*19/300",
+          "valid": true
+        }
+      ]
+    }
+  ],
+  "packed_hero_water_images": [
+    {
+      "name": "doodlebuilt_waterfall_fx.png",
+      "packed": true,
+      "dimensions": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "normal.png",
+      "packed": true,
+      "dimensions": [
+        1024,
+        1024
+      ]
+    }
+  ],
+  "render_outputs": [
+    {
+      "name": "catmosphere_hero_beach.png",
+      "bytes": 1839361
+    },
+    {
+      "name": "catmosphere_hero_beauty_review.png",
+      "bytes": 2100160
+    },
+    {
+      "name": "catmosphere_hero_bedroom.png",
+      "bytes": 1876319
+    },
+    {
+      "name": "catmosphere_hero_before.png",
+      "bytes": 2012820
+    },
+    {
+      "name": "catmosphere_hero_before_after.png",
+      "bytes": 3255887
+    },
+    {
+      "name": "catmosphere_hero_dining.png",
+      "bytes": 1829613
+    },
+    {
+      "name": "catmosphere_hero_final.png",
+      "bytes": 4024233
+    },
+    {
+      "name": "catmosphere_hero_level_closeups.png",
+      "bytes": 2153344
+    },
+    {
+      "name": "catmosphere_hero_lounge.png",
+      "bytes": 1905843
+    },
+    {
+      "name": "catmosphere_hero_phase_a.png",
+      "bytes": 1292612
+    },
+    {
+      "name": "catmosphere_hero_phase_bc.png",
+      "bytes": 1321400
+    },
+    {
+      "name": "catmosphere_hero_polish_review.png",
+      "bytes": 2121531
+    },
+    {
+      "name": "catmosphere_hero_rooftop.png",
+      "bytes": 1916422
+    }
+  ],
+  "limitations": [
+    "No exhaustive geometry collision test",
+    "No newly exported full-scene animation video",
+    "Visual premium quality remains unapproved"
+  ]
+}
