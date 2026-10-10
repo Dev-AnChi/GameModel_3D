@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy,os,json,math
 from mathutils import Vector
-ROOT=r'C:\Game\Commercial_3D\Wandering_Alchemist_v2'
+ROOT=r'C:\Game\GameModel_3D\Wandering_Alchemist_v2'
 with open(os.path.join(ROOT,'textures','downloaded','verified_manifest.json'),encoding='utf-8') as f:assets={a['id']:a for a in json.load(f)}
 for path in ('renders/material_tests','renders/hero','renders/closeups','textures/baked','reports'):os.makedirs(os.path.join(ROOT,path),exist_ok=True)
 main=bpy.context.scene

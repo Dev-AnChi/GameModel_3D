@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy, os, math
 from mathutils import Vector
-R=r"C:\Game\Commercial_3D\Wandering_Alchemist_v2"
+R=r"C:\Game\GameModel_3D\Wandering_Alchemist_v2"
 for d in ("Blender",os.path.join("Preview","Phase_1"),"Documentation","Props","Textures","Exports"):os.makedirs(os.path.join(R,d),exist_ok=True)
 bpy.ops.wm.read_factory_settings(use_empty=True)
 def M(n,c,e=0,met=0):

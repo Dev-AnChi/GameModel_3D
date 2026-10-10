@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy, os, math, shutil
 from mathutils import Vector
-R=r"C:\Game\Commercial_3D\Wandering_Alchemist_v2"; SRC=os.path.join(R,"Blender","Wandering_Alchemist_v2_Phase_1_Concept.blend"); B=os.path.join(R,"Blender"); PRE=os.path.join(R,"Preview","Phase_2"); DOC=os.path.join(R,"Documentation")
+R=r"C:\Game\GameModel_3D\Wandering_Alchemist_v2"; SRC=os.path.join(R,"Blender","Wandering_Alchemist_v2_Phase_1_Concept.blend"); B=os.path.join(R,"Blender"); PRE=os.path.join(R,"Preview","Phase_2"); DOC=os.path.join(R,"Documentation")
 os.makedirs(PRE,exist_ok=True);os.makedirs(os.path.join(B,"Backups"),exist_ok=True)
 shutil.copy2(SRC,os.path.join(B,"Backups","Wandering_Alchemist_v2_Phase_1_Backup.blend"))
 bpy.ops.wm.open_mainfile(filepath=SRC)

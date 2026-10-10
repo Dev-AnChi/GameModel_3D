@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy,os,shutil
 from mathutils import Vector
-R=r"C:\Game\Commercial_3D\Wandering_Alchemist_v2";B=os.path.join(R,"Blender");S=os.path.join(B,"Wandering_Alchemist_Phase4_Geometry_Master.blend");os.makedirs(os.path.join(R,"renders","reference_comparison"),exist_ok=True);os.makedirs(os.path.join(R,"renders","clay_review"),exist_ok=True);os.makedirs(os.path.join(R,"reports"),exist_ok=True);shutil.copy2(S,os.path.join(B,"Backups","Wandering_Alchemist_Phase4_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=S)
+R=r"C:\Game\GameModel_3D\Wandering_Alchemist_v2";B=os.path.join(R,"Blender");S=os.path.join(B,"Wandering_Alchemist_Phase4_Geometry_Master.blend");os.makedirs(os.path.join(R,"renders","reference_comparison"),exist_ok=True);os.makedirs(os.path.join(R,"renders","clay_review"),exist_ok=True);os.makedirs(os.path.join(R,"reports"),exist_ok=True);shutil.copy2(S,os.path.join(B,"Backups","Wandering_Alchemist_Phase4_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=S)
 def mat(n,c,r=.5):
  m=bpy.data.materials.new(n);m.use_nodes=True;p=m.node_tree.nodes["Principled BSDF"];p.inputs["Base Color"].default_value=(*c,1);p.inputs["Roughness"].default_value=r;return m
 teal=mat("Reference Deep Teal Fabric",(.015,.17,.16),.82);ivory=mat("Reference Ivory Trim",(.62,.52,.34),.78);oak=mat("Reference Honey Oak",(.25,.075,.025),.5)

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy,os,shutil,math
 from mathutils import Vector
-R=r"C:\Game\Commercial_3D\Wandering_Alchemist_v2";B=os.path.join(R,"Blender");S=os.path.join(B,"Wandering_Alchemist_v2_Phase_2_5_Pass_AB.blend");P=os.path.join(R,"Preview","Phase_3_AB");os.makedirs(P,exist_ok=True);os.makedirs(os.path.join(B,"Backups"),exist_ok=True);shutil.copy2(S,os.path.join(B,"Backups","Wandering_Alchemist_v2_Phase_2_5_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=S)
+R=r"C:\Game\GameModel_3D\Wandering_Alchemist_v2";B=os.path.join(R,"Blender");S=os.path.join(B,"Wandering_Alchemist_v2_Phase_2_5_Pass_AB.blend");P=os.path.join(R,"Preview","Phase_3_AB");os.makedirs(P,exist_ok=True);os.makedirs(os.path.join(B,"Backups"),exist_ok=True);shutil.copy2(S,os.path.join(B,"Backups","Wandering_Alchemist_v2_Phase_2_5_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=S)
 sc=bpy.context.scene;cam=sc.camera
 def aim(o,p):o.rotation_euler=(Vector(p)-o.location).to_track_quat("-Z","Y").to_euler()
 def ren(n,p,t=(0,0,3)):

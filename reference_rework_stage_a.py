@@ -2,7 +2,7 @@
 """Stage A: reference proportion reconstruction in the live Blender MCP scene."""
 import bpy, math, os, json
 from mathutils import Vector
-ROOT = r'C:\Game\Commercial_3D\Wandering_Alchemist_v2'
+ROOT = r'C:\Game\GameModel_3D\Wandering_Alchemist_v2'
 archive = bpy.data.collections.new('ARCHIVE')
 bpy.context.scene.collection.children.link(archive)
 for obj in list(bpy.context.scene.objects):

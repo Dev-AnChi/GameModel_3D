@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy,os,math,shutil
 from mathutils import Vector
-R=r"C:\Game\Commercial_3D\Wandering_Alchemist_v2";src=os.path.join(R,"Blender","Wandering_Alchemist_v2_Phase_2_DetailMaterials.blend");B=os.path.join(R,"Blender");P=os.path.join(R,"Preview","Phase_2_5_Pass_AB");os.makedirs(P,exist_ok=True);os.makedirs(os.path.join(B,"Backups"),exist_ok=True);shutil.copy2(src,os.path.join(B,"Backups","Wandering_Alchemist_v2_Phase_2_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=src)
+R=r"C:\Game\GameModel_3D\Wandering_Alchemist_v2";src=os.path.join(R,"Blender","Wandering_Alchemist_v2_Phase_2_DetailMaterials.blend");B=os.path.join(R,"Blender");P=os.path.join(R,"Preview","Phase_2_5_Pass_AB");os.makedirs(P,exist_ok=True);os.makedirs(os.path.join(B,"Backups"),exist_ok=True);shutil.copy2(src,os.path.join(B,"Backups","Wandering_Alchemist_v2_Phase_2_Backup.blend"));bpy.ops.wm.open_mainfile(filepath=src)
 def mat(n,c,met=0,rough=.4):
  m=bpy.data.materials.get(n) or bpy.data.materials.new(n);m.diffuse_color=(*c,1);m.use_nodes=True;p=m.node_tree.nodes.get("Principled BSDF");p.inputs["Base Color"].default_value=(*c,1);p.inputs["Metallic"].default_value=met;p.inputs["Roughness"].default_value=rough;return m
 oak=mat("Premium Warm Oak",(.24,.075,.025),0,.5);edge=mat("Oak Edge",(.48,.17,.045),0,.42);brass=mat("Antique Brass",(.36,.16,.025),.8,.32);iron=mat("Wrought Iron",(.035,.045,.05),.85,.4);ivory=mat("Warm Ivory",(.55,.43,.25),0,.78)

@@ -1,0 +1,302 @@
+[
+  {
+    "material": "P6_Aged_Planks",
+    "map": "BaseColor",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_BaseColor.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "sRGB",
+    "min": 0.11372549831867218,
+    "max": 0.40392160415649414,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Aged_Planks",
+    "map": "Roughness",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Roughness.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.6039215922355652,
+    "max": 0.7254902124404907,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Aged_Planks",
+    "map": "Normal",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Normal.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.35686275362968445,
+    "max": 1.0,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Aged_Planks",
+    "map": "Height",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Height.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.458823561668396,
+    "max": 0.5529412031173706,
+    "finite": true,
+    "linked": false
+  },
+  {
+    "material": "P6_Carved_Oak",
+    "map": "BaseColor",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_BaseColor.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "sRGB",
+    "min": 0.1098039299249649,
+    "max": 0.5058823823928833,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Carved_Oak",
+    "map": "Roughness",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Roughness.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4235294461250305,
+    "max": 0.5333333611488342,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Carved_Oak",
+    "map": "Normal",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Normal.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.32156863808631897,
+    "max": 1.0,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Carved_Oak",
+    "map": "Height",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Height.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4549019932746887,
+    "max": 0.5411764979362488,
+    "finite": true,
+    "linked": false
+  },
+  {
+    "material": "P6_Dark_Walnut",
+    "map": "BaseColor",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_BaseColor.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "sRGB",
+    "min": 0.0470588281750679,
+    "max": 0.2549019753932953,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Dark_Walnut",
+    "map": "Roughness",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Roughness.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4901961088180542,
+    "max": 0.6117647290229797,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Dark_Walnut",
+    "map": "Normal",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Normal.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.38431376218795776,
+    "max": 1.0,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Dark_Walnut",
+    "map": "Height",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Height.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.44705885648727417,
+    "max": 0.5490196347236633,
+    "finite": true,
+    "linked": false
+  },
+  {
+    "material": "P6_Main_Oak",
+    "map": "BaseColor",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_BaseColor.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "sRGB",
+    "min": 0.09803922474384308,
+    "max": 0.4745098352432251,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Main_Oak",
+    "map": "Roughness",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Roughness.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.45098042488098145,
+    "max": 0.5529412031173706,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Main_Oak",
+    "map": "Normal",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Normal.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.3450980484485626,
+    "max": 1.0,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Main_Oak",
+    "map": "Height",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Height.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4549019932746887,
+    "max": 0.545098066329956,
+    "finite": true,
+    "linked": false
+  },
+  {
+    "material": "P6_Shelf_Oak",
+    "map": "BaseColor",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_BaseColor.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "sRGB",
+    "min": 0.062745101749897,
+    "max": 0.40000003576278687,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Shelf_Oak",
+    "map": "Roughness",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Roughness.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4705882668495178,
+    "max": 0.572549045085907,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Shelf_Oak",
+    "map": "Normal",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Normal.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.3333333432674408,
+    "max": 1.0,
+    "finite": true,
+    "linked": true
+  },
+  {
+    "material": "P6_Shelf_Oak",
+    "map": "Height",
+    "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Height.png",
+    "exists": true,
+    "resolution": [
+      2048,
+      2048
+    ],
+    "color_space": "Non-Color",
+    "min": 0.4549019932746887,
+    "max": 0.5372549295425415,
+    "finite": true,
+    "linked": false
+  }
+]

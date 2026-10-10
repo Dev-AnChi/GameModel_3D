@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy, os
 from mathutils import Vector
-root = r'C:\Game\Commercial_3D\Wandering_Alchemist_v2'
+root = r'C:\Game\GameModel_3D\Wandering_Alchemist_v2'
 s = bpy.data.scenes['Scene']
 cam = s.camera
 original_location = cam.location.copy()

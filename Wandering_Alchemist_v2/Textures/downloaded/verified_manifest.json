@@ -1,0 +1,150 @@
+[
+  {
+    "id": "oak_veneer_01",
+    "name": "Oak Veneer 01",
+    "authors": {
+      "Jenelle van Heerden": "All"
+    },
+    "page": "https://polyhaven.com/a/oak_veneer_01",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "download_date": "2026-10-10",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_diff_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_veneer_01/oak_veneer_01_diff_2k.jpg",
+        "http_status": 200,
+        "bytes": 2831117,
+        "md5": "0ad13b8daf8dc00318a437f56e54c484",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "JPEG"
+      },
+      "Rough": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_rough_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_veneer_01/oak_veneer_01_rough_2k.jpg",
+        "http_status": 200,
+        "bytes": 3968436,
+        "md5": "cacab0148320161ceced18ae909e3ada",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "JPEG"
+      },
+      "nor_gl": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_nor_gl_2k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/oak_veneer_01/oak_veneer_01_nor_gl_2k.png",
+        "http_status": 200,
+        "bytes": 20978522,
+        "md5": "c67eef8573d4beb46519c89200b79a1e",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      }
+    }
+  },
+  {
+    "id": "rough_linen",
+    "name": "Rough Linen",
+    "authors": {
+      "colormass": "Photography",
+      "Rico Cilliers": "Processing"
+    },
+    "page": "https://polyhaven.com/a/rough_linen",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "download_date": "2026-10-10",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_diff_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_diff_2k.jpg",
+        "http_status": 200,
+        "bytes": 3607181,
+        "md5": "1287d4d1183c511e4adc55b8d006d763",
+        "resolution": [
+          2048,
+          2052
+        ],
+        "format": "JPEG"
+      },
+      "Rough": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_rough_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_rough_2k.jpg",
+        "http_status": 200,
+        "bytes": 4655974,
+        "md5": "fb70674c782d6bead54c8baaae2b77db",
+        "resolution": [
+          2048,
+          2052
+        ],
+        "format": "JPEG"
+      },
+      "nor_gl": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_nor_gl_2k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/rough_linen/rough_linen_nor_gl_2k.png",
+        "http_status": 200,
+        "bytes": 22196908,
+        "md5": "c790b11f591f898dbec1d75733159fb3",
+        "resolution": [
+          2048,
+          2052
+        ],
+        "format": "PNG"
+      }
+    }
+  },
+  {
+    "id": "metal_plate_02",
+    "name": "Metal Plate 02",
+    "authors": {
+      "Rob Tuytel": "All"
+    },
+    "page": "https://polyhaven.com/a/metal_plate_02",
+    "license": "CC0",
+    "license_url": "https://polyhaven.com/license",
+    "download_date": "2026-10-10",
+    "files": {
+      "Diffuse": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_diff_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate_02/metal_plate_02_diff_2k.jpg",
+        "http_status": 200,
+        "bytes": 2604239,
+        "md5": "519b43cf88b4b6ea74bd259e976f2170",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "JPEG"
+      },
+      "Rough": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_rough_2k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/metal_plate_02/metal_plate_02_rough_2k.jpg",
+        "http_status": 200,
+        "bytes": 3818263,
+        "md5": "4d719f94800aaf6a77cf8b22ce503116",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "JPEG"
+      },
+      "nor_gl": {
+        "path": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_nor_gl_2k.png",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/2k/metal_plate_02/metal_plate_02_nor_gl_2k.png",
+        "http_status": 200,
+        "bytes": 12046578,
+        "md5": "c210604ae29c0d1e016fe845b8eec939",
+        "resolution": [
+          2048,
+          2048
+        ],
+        "format": "PNG"
+      }
+    }
+  }
+]

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import bpy, json, math, os
 from mathutils import Vector
-src = r'C:\Users\Admin\Downloads\tripo_pbr_model_14d23857-8311-470b-a053-77f7083d4962.glb'
+src = r'C:\Game\GameModel_3D\Wandering_Alchemist_v2\References\Models\tripo_pbr_model_14d23857-8311-470b-a053-77f7083d4962.glb'
 out = r'C:\Game\GameModel_3D\tripo_inspection'
 os.makedirs(out, exist_ok=True)
 bpy.ops.wm.read_factory_settings(use_empty=True)

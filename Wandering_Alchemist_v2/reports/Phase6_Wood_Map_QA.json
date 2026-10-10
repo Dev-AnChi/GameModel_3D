@@ -1,0 +1,1152 @@
+{
+  "maps": [
+    {
+      "material": "P6_Main_Oak",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "roughness_range": [
+        0.33700549602508545,
+        0.629218339920044
+      ],
+      "normal_max_length_error": 2.384185791015625e-07,
+      "maps": {
+        "BaseColor": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_BaseColor.png",
+        "Roughness": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Roughness.png",
+        "Normal": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Normal.png",
+        "Height": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Main_Oak_Height.png"
+      }
+    },
+    {
+      "material": "P6_Dark_Walnut",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "roughness_range": [
+        0.3889608085155487,
+        0.6792103052139282
+      ],
+      "normal_max_length_error": 2.384185791015625e-07,
+      "maps": {
+        "BaseColor": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_BaseColor.png",
+        "Roughness": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Roughness.png",
+        "Normal": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Normal.png",
+        "Height": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Dark_Walnut_Height.png"
+      }
+    },
+    {
+      "material": "P6_Aged_Planks",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "roughness_range": [
+        0.5007586479187012,
+        0.7892232537269592
+      ],
+      "normal_max_length_error": 2.384185791015625e-07,
+      "maps": {
+        "BaseColor": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_BaseColor.png",
+        "Roughness": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Roughness.png",
+        "Normal": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Normal.png",
+        "Height": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Aged_Planks_Height.png"
+      }
+    },
+    {
+      "material": "P6_Carved_Oak",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "roughness_range": [
+        0.3199999928474426,
+        0.6091627478599548
+      ],
+      "normal_max_length_error": 2.384185791015625e-07,
+      "maps": {
+        "BaseColor": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_BaseColor.png",
+        "Roughness": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Roughness.png",
+        "Normal": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Normal.png",
+        "Height": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Carved_Oak_Height.png"
+      }
+    },
+    {
+      "material": "P6_Shelf_Oak",
+      "resolution": [
+        2048,
+        2048
+      ],
+      "roughness_range": [
+        0.3588767647743225,
+        0.6491467952728271
+      ],
+      "normal_max_length_error": 2.384185791015625e-07,
+      "maps": {
+        "BaseColor": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_BaseColor.png",
+        "Roughness": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Roughness.png",
+        "Normal": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Normal.png",
+        "Height": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Textures\\Phase6_Wood\\Shelf_Oak_Height.png"
+      }
+    }
+  ],
+  "assignments": [
+    {
+      "object": "Chassis_Longitudinal",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Chassis_Longitudinal.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Crossbeam",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Crossbeam.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Crossbeam.002",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Crossbeam.003",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Crossbeam.004",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_00",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_01",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_02",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_03",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_04",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_05",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_06",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_07",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_08",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_09",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_10",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Floor_Plank_11",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank.001",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank.002",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Sill_Rail",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank.003",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank.004",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Lower_Side_Plank.005",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Sill_Rail.001",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.002",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.003",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.004",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.005",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.006",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cabin_Frame.007",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_00",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_01",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_02",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_03",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_04",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_05",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_06",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_07",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_08",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_09",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_10",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_11",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_12",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_13",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_14",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_15",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Far_Wall_Plank_16",
+      "family": "Aged_Planks",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Rail",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Rail.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.001",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.002",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.003",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.004",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.005",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.006",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.007",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Façade_Plank.008",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Arched_Door_Plank",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Arched_Door_Plank.001",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Arched_Door_Plank.002",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Arched_Door_Plank.003",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Arched_Door_Plank.004",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Rear_Arch_Thick_Frame",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 340
+    },
+    {
+      "object": "Rear_Step",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Curved_Oak_Felloe",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.001",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.002",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.003",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.004",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.005",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.006",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.007",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Shaped_Wheel_Spoke",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.001",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.002",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.003",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.004",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.005",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.006",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.007",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.008",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.009",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Curved_Oak_Felloe.008",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.009",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.010",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.011",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.012",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.013",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.014",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.015",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.010",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.011",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.012",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.013",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.014",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.015",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.016",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.017",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.018",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.019",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Curved_Oak_Felloe.016",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.017",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.018",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.019",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.020",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.021",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.022",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.023",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.020",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.021",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.022",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.023",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.024",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.025",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.026",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.027",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.028",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.029",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Curved_Oak_Felloe.024",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.025",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.026",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.027",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.028",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.029",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.030",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Curved_Oak_Felloe.031",
+      "family": "Carved_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 42
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.030",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.031",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.032",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.033",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.034",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.035",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.036",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.037",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.038",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shaped_Wheel_Spoke.039",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Tow_Shaft",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Tow_Shaft.001",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Tow_Yoke",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Under_Canopy_Wood_Rib",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 400
+    },
+    {
+      "object": "Under_Canopy_Wood_Rib.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 400
+    },
+    {
+      "object": "Under_Canopy_Wood_Rib.002",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 400
+    },
+    {
+      "object": "Under_Canopy_Wood_Rib.003",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 400
+    },
+    {
+      "object": "Under_Canopy_Wood_Rib.004",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 400
+    },
+    {
+      "object": "Roof_Ridge",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Counter_Plank",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Counter_Plank.001",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Counter_Plank.002",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Shop_Counter_Plank.003",
+      "family": "Main_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Counter_Support",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Counter_Support.001",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Interior_Display_Shelf",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Interior_Display_Shelf.001",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Interior_Display_Shelf.002",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass.001",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass.002",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass.003",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass.004",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Drawer_Mass.005",
+      "family": "Shelf_Oak",
+      "uv": "Wood_Grain_UV",
+      "faces": 50
+    },
+    {
+      "object": "Cork_Study_00",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_01",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_02",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_03",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_04",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_05",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_06",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_07",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_08",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    },
+    {
+      "object": "Cork_Study_09",
+      "family": "Dark_Walnut",
+      "uv": "Wood_Grain_UV",
+      "faces": 26
+    }
+  ]
+}

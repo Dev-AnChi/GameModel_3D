@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import bpy,os,json
-ROOT=r'C:\Game\Commercial_3D\Wandering_Alchemist_v2'
+ROOT=r'C:\Game\GameModel_3D\Wandering_Alchemist_v2'
 with open(os.path.join(ROOT,'textures','downloaded','verified_manifest.json'),encoding='utf-8') as f:assets=json.load(f)
 assign={'oak_veneer_01':('P65A_Oak_Trial','Oak_Test_Plank; Shop_Counter_Plank'),'rough_linen':('P65A_Teal_Linen_Trial','Teal_Linen_Test_Drape; Draped_Canopy_Surface'),'metal_plate_02':('P65A_Antique_Brass_Trial','Antique_Brass_Test; Layered_Hub')}
 sources='# Material Sources — Phase 6.5A\n\nPowered by Poly Haven. Download date: 2026-10-10. Asset license verified at https://polyhaven.com/license — CC0 allows commercial use and redistribution in sold products.\n\n'

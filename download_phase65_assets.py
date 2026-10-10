@@ -2,7 +2,7 @@
 """Download selected CC0 maps from official Poly Haven API manifests."""
 import urllib.request, json, pathlib, hashlib
 from PIL import Image
-ROOT=pathlib.Path(r'C:\Game\Commercial_3D\Wandering_Alchemist_v2')
+ROOT=pathlib.Path(r'C:\Game\GameModel_3D\Wandering_Alchemist_v2')
 OUT=ROOT/'textures'/'downloaded';OUT.mkdir(parents=True,exist_ok=True)
 report=[]
 def get(url):

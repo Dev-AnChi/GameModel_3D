@@ -1,0 +1,726 @@
+[
+  {
+    "Source": "C:\\Game\\Commercial_3D\\Wandering_Alchemist",
+    "Target": "C:\\Game\\GameModel_3D\\Wandering_Alchemist",
+    "Count": 8,
+    "Verified": true,
+    "Files": [
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase_1_Concept.blend",
+        "Length": 163213,
+        "SHA256": "501F0DF51D0A2FE83E8AD19F5BD7CB7EF5E8E30E2861B3066B6090FD4ED93182"
+      },
+      {
+        "Relative": "Documentation\\Market_Research.md",
+        "Length": 1074,
+        "SHA256": "11DA5F0F11AA802108EDB7F34961680EF1DDB0AF5318139E3F4920AE839D99D9"
+      },
+      {
+        "Relative": "Documentation\\PROGRESS.md",
+        "Length": 384,
+        "SHA256": "EBCBC06926D223F1B48912E4DE87FCEF66B32C536C9D81CFD8B13D2A2C0BA6D4"
+      },
+      {
+        "Relative": "Documentation\\TASKS.md",
+        "Length": 213,
+        "SHA256": "B130B023376E5CE669CA0B856EF8F3FF3648A056EFC6167C0F2C9EF97620A58B"
+      },
+      {
+        "Relative": "Documentation\\Technical_Specifications_Phase_1.md",
+        "Length": 243,
+        "SHA256": "42B777D499FF62D8E4CF74330D8680E3CEF6493EEF0F96A6DC46A3D5C973AA7D"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Front_Shop.png",
+        "Length": 1359230,
+        "SHA256": "2F7E6813DBC0007FB293F9D8272336E3DE1B2B4F7E495C8F4F5B1314E62B9840"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Hero_ThreeQuarter.png",
+        "Length": 1362766,
+        "SHA256": "E0EEB2277FCBBA155763CA44D254B6B783D9151487772862886EF5D2F661EDF7"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Side_Profile.png",
+        "Length": 1290168,
+        "SHA256": "B1B82082A736112FDEAD7092099D25BEA74823194B423D5C6C9C8FDD364A373D"
+      }
+    ]
+  },
+  {
+    "Source": "C:\\Game\\Commercial_3D\\Wandering_Alchemist_v2",
+    "Target": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2",
+    "Count": 131,
+    "Verified": true,
+    "Files": [
+      {
+        "Relative": "model_progress.md",
+        "Length": 1974,
+        "SHA256": "266EC89D8D1EF3C196EEFC103CC0181285D266D84E9065934BF340422A97F2DB"
+      },
+      {
+        "Relative": "PHASE6_REFERENCE_GAP.md",
+        "Length": 1484,
+        "SHA256": "FCD98D800D8CA8A6D398C1DB8EA9AA02341042634618A2DD04BBD0A3AD168E6E"
+      },
+      {
+        "Relative": "REFERENCE_ACCURACY.md",
+        "Length": 1974,
+        "SHA256": "266EC89D8D1EF3C196EEFC103CC0181285D266D84E9065934BF340422A97F2DB"
+      },
+      {
+        "Relative": "REFERENCE_BREAKDOWN.md",
+        "Length": 754,
+        "SHA256": "22140F7D91F20A919479B389F0258D58B6109CD671FBF645187D59A7CA9D6E82"
+      },
+      {
+        "Relative": "texture_sources.md",
+        "Length": 383,
+        "SHA256": "3C1DA99695A14DEE6A427EB056DEE599C23C252AF8820BA481799821E1AADA23"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase3A.blend",
+        "Length": 316633,
+        "SHA256": "B020BFF0BB68DB7F1A84564B2DCEFF5F97430BAEA51C0C6AE017254CC5319A7E"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase3B.blend",
+        "Length": 319068,
+        "SHA256": "74C42D309D6E6BB13E506971CC80D32F6BD244B014CEA2A312B58C6C51E0245F"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase4_Geometry_Master.blend",
+        "Length": 296991,
+        "SHA256": "9C5BC863F13A7892DC9ECAE1516FD5E1AF5510D0EC85233942B56A21ED7F3529"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase6_5_Premium.blend",
+        "Length": 990422,
+        "SHA256": "BD117BDDC18AA454CADBAB7D74AF0A2E26B605437E4D8F2AF056989862D6738C"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase6_5_Premium.blend1",
+        "Length": 974946,
+        "SHA256": "190A51171CA999FD9B3A9005AA20DFD14D8F9CB4B48F002E8854362ED9C97ECF"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase6A_Wood.blend",
+        "Length": 807244,
+        "SHA256": "38D54E4622662FCBEDBF77F304F8C002AD169C65C493EF59074767E4D7BC352B"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Phase6A_Wood.blend1",
+        "Length": 798247,
+        "SHA256": "5CDA9F6F42A145056E0B5CEAAF92B719555292F5ADB0F7CABF2072529042E7B6"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Reference_Master.blend",
+        "Length": 301884,
+        "SHA256": "AA52D67EB317EAA07603087BDE2B957A58FD9AD84723D39CE90CECC9C8F2BC5B"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Reference_Rebuild.blend",
+        "Length": 624560,
+        "SHA256": "07203B30FAF42767DC68AB9C40F029E1A38D8B662C62D339C367B874BE620D5F"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_Reference_Rebuild.blend1",
+        "Length": 628082,
+        "SHA256": "4C883281249391F4E07D8DA5F1B01DF0D9FC9834B70DD39578640A0B4B7CE4D3"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_v2_Phase_1_Concept.blend",
+        "Length": 160058,
+        "SHA256": "66C3E08E0523DCBA540F9B99DA1028C57ABA2C85DFCAE2CD22473274477450DF"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_v2_Phase_2_5_Pass_AB.blend",
+        "Length": 308563,
+        "SHA256": "D4B0CA79D7DD8D25E2025849EA600DEF2B371ACA51B5A68FE90709B98CF1EB89"
+      },
+      {
+        "Relative": "Blender\\Wandering_Alchemist_v2_Phase_2_DetailMaterials.blend",
+        "Length": 241692,
+        "SHA256": "78A369154A78DE9E26E6784804464485A980A202F1DACC6A4E5807D4FBACB991"
+      },
+      {
+        "Relative": "Blender\\Backups\\Before_Phase6_20261010_151338.blend",
+        "Length": 637830,
+        "SHA256": "3AC8111720CA7804D9A77D22E48558B2B0C88F937EBD459A372FF0F9A05AEBA6"
+      },
+      {
+        "Relative": "Blender\\Backups\\Before_Phase6_5_20261010_152531.blend",
+        "Length": 799618,
+        "SHA256": "E491B71A7C25C220A3C2BD4840778172E516F2CAF186C86B8E3BCB62A6CF2655"
+      },
+      {
+        "Relative": "Blender\\Backups\\Reference_Master_Before_Rework_20261010_145817.blend",
+        "Length": 327417,
+        "SHA256": "384F2FA482664DCC27976F3E79F34CE9EFAEA9486B553F9186B0B548142A2218"
+      },
+      {
+        "Relative": "Blender\\Backups\\Wandering_Alchemist_Phase3B_Backup.blend",
+        "Length": 319068,
+        "SHA256": "74C42D309D6E6BB13E506971CC80D32F6BD244B014CEA2A312B58C6C51E0245F"
+      },
+      {
+        "Relative": "Blender\\Backups\\Wandering_Alchemist_Phase4_Backup.blend",
+        "Length": 296991,
+        "SHA256": "9C5BC863F13A7892DC9ECAE1516FD5E1AF5510D0EC85233942B56A21ED7F3529"
+      },
+      {
+        "Relative": "Blender\\Backups\\Wandering_Alchemist_v2_Phase_1_Backup.blend",
+        "Length": 160058,
+        "SHA256": "66C3E08E0523DCBA540F9B99DA1028C57ABA2C85DFCAE2CD22473274477450DF"
+      },
+      {
+        "Relative": "Blender\\Backups\\Wandering_Alchemist_v2_Phase_2_5_Backup.blend",
+        "Length": 308563,
+        "SHA256": "D4B0CA79D7DD8D25E2025849EA600DEF2B371ACA51B5A68FE90709B98CF1EB89"
+      },
+      {
+        "Relative": "Blender\\Backups\\Wandering_Alchemist_v2_Phase_2_Backup.blend",
+        "Length": 241692,
+        "SHA256": "78A369154A78DE9E26E6784804464485A980A202F1DACC6A4E5807D4FBACB991"
+      },
+      {
+        "Relative": "Documentation\\Market_Research.md",
+        "Length": 1074,
+        "SHA256": "11DA5F0F11AA802108EDB7F34961680EF1DDB0AF5318139E3F4920AE839D99D9"
+      },
+      {
+        "Relative": "Documentation\\Phase_2_5_Pass_AB_Report.md",
+        "Length": 386,
+        "SHA256": "489652B5CF6B8FA16855A223AAFAD1CDAFBA8A9C62E9E5A8B8A5714FABD1BD08"
+      },
+      {
+        "Relative": "Documentation\\Phase_2_Report.md",
+        "Length": 1069,
+        "SHA256": "F4F3A76F20650AADA44524E17D1038C36D02CECAAAD90DD597F72FA89BA892C5"
+      },
+      {
+        "Relative": "Documentation\\Phase_3_AB_Report.md",
+        "Length": 481,
+        "SHA256": "F3A870265C2B5AFDDCA888AF41CA538EB2F896B855DF2AEDB70DF305235ADC0B"
+      },
+      {
+        "Relative": "Documentation\\PROGRESS.md",
+        "Length": 1332,
+        "SHA256": "5BC4CDFD0A6ECBC82C3941D9BCB93F01BEE27083D59A334961FFAC5262ECA483"
+      },
+      {
+        "Relative": "Documentation\\TASKS.md",
+        "Length": 529,
+        "SHA256": "3D61CE18CA74711672505DC7915C03750DCBC02A62764A9CE4F8DD418ECA3ABD"
+      },
+      {
+        "Relative": "Documentation\\Technical_Specifications_Phase_1.md",
+        "Length": 243,
+        "SHA256": "42B777D499FF62D8E4CF74330D8680E3CEF6493EEF0F96A6DC46A3D5C973AA7D"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Front_Shop.png",
+        "Length": 1359230,
+        "SHA256": "60D58CFF4220807599889AE2695F6781A6E12840855D73EFF3D7E56764FBB4A5"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Hero_ThreeQuarter.png",
+        "Length": 1362766,
+        "SHA256": "AD047F04064BBAFDA83FF1B4553EF265C614BFFEB17E999E6DBEE6AAB4B1E51C"
+      },
+      {
+        "Relative": "Preview\\Phase_1\\Side_Profile.png",
+        "Length": 1290168,
+        "SHA256": "0EC081DD5000FC7BB5643F0C74CC85977EEF2DFBEF3E26C4AA6C0034091BD7B3"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Front.png",
+        "Length": 1065635,
+        "SHA256": "5D427A3ACAFDFB7E2FC50A2DB7F43E247C72284DF9A281631FE6418D710519D7"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Hero.png",
+        "Length": 1038070,
+        "SHA256": "F88F2B12727B94F5432769811E60E799B5EF778222798934DA0A8435A773F4C8"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Material_Closeup.png",
+        "Length": 890137,
+        "SHA256": "5D7FEC5A0BCE74C7DA6E0A7880CD65EA5A9D26C59C5F9B2FD9D34EA93F4219E6"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Potion_Closeup.png",
+        "Length": 908772,
+        "SHA256": "288534BB94EE400B5EB39CD3CD513E01FC036EA2573A79381D9A6B3AF3BCC97D"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Rear.png",
+        "Length": 1087803,
+        "SHA256": "11F106904FB0E2E14C82628428DF38D828AACA032D00DD45503CA30DD2B048EF"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Side.png",
+        "Length": 989589,
+        "SHA256": "890BF4620AC6526AFC8C4AF3AB7FF3B6EDCF83E30F02127B21D580FB51CBA2B5"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\After_Wheel_Closeup.png",
+        "Length": 846509,
+        "SHA256": "F5CB0BED73C9C5F13E9AC0FF10D5F9EFD4EA0F063DE7730B3D1E4ADA9C95C9D3"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\Before_Front_ThreeQuarter.png",
+        "Length": 967603,
+        "SHA256": "953E6F7EEAE99905770EF36D055B591E774B45D3F8C769C81727213DA71296D7"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\Before_Rear_ThreeQuarter.png",
+        "Length": 1010707,
+        "SHA256": "52270E04D292E2E27FACB8ED29D9758E2593AC5020564F8DC11FFD9CD59BC05A"
+      },
+      {
+        "Relative": "Preview\\Phase_2\\Before_Side.png",
+        "Length": 911237,
+        "SHA256": "311F441DD37546B674611404434928D1312E3F85D39F8B97E3D9A1EE6FAF4C36"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Beauty_Hero_Front_ThreeQuarter.png",
+        "Length": 1101172,
+        "SHA256": "896A7DC2FFC5D90E396F06313329C31A5214220567F19759514B10D5A764C69B"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Beauty_Rear_ThreeQuarter.png",
+        "Length": 1142579,
+        "SHA256": "CC721E5E12E7A1AA1C2CEF4AAE7C58DAE45DEF883239FAE647CBCD8AB01FFBAA"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Beauty_Side.png",
+        "Length": 980875,
+        "SHA256": "6300F8A72DE5737F7F7DCD5F2295851C8E18B17C7A2EE7777723D7C00B8D9557"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Beauty_Wheel_Closeup.png",
+        "Length": 1241008,
+        "SHA256": "645FAC4AE0919E922F94202259A0D4E0F1081AC7E45CE2CF7BC17111B0083FED"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Neutral_Hero.png",
+        "Length": 975687,
+        "SHA256": "5194366C82C758DC4DFAAB81123ED1BBC625B65632D5C33F21CDECFE8EE72E37"
+      },
+      {
+        "Relative": "Preview\\Phase_2_5_Pass_AB\\Neutral_Rear.png",
+        "Length": 1027791,
+        "SHA256": "C23E984A314AF664B45550FA333F4BCB0E0320B30220C59A80204BCF08F41073"
+      },
+      {
+        "Relative": "Preview\\Phase_3_AB\\After_Phase3_Hero.png",
+        "Length": 983323,
+        "SHA256": "981C04CB344A0916F3CFA2F0DE739240EE6A47D1CF875717420C51207DCF8712"
+      },
+      {
+        "Relative": "Preview\\Phase_3_AB\\After_Phase3_Rear.png",
+        "Length": 1026908,
+        "SHA256": "550AE8A001273AE4515B2D86899483A447F5C2A150A633537197DC0E9DFD275E"
+      },
+      {
+        "Relative": "Preview\\Phase_3_AB\\After_Phase3_Wheel.png",
+        "Length": 1217452,
+        "SHA256": "B2A246129605A56AC680BFB3B5346F2EBA06F9CF98B8473D92DB749985948E3C"
+      },
+      {
+        "Relative": "Preview\\Phase_3_AB\\Before_Phase3_Hero.png",
+        "Length": 975681,
+        "SHA256": "FD09DB9D77D6CC45799E7000175A36BD3C3479D38D1B7D4FA3ABC05D1CA04BE6"
+      },
+      {
+        "Relative": "Preview\\Phase_3_AB\\Before_Phase3_Rear.png",
+        "Length": 1027785,
+        "SHA256": "3CFF1482F8BE22C47FAC90EB181E85FB9AB1DB2D02F9D6EBE41A225BDAD3EBC4"
+      },
+      {
+        "Relative": "renders\\Phase4_Clay_After.png",
+        "Length": 991043,
+        "SHA256": "8991DA5012C75E68D90AF50857B41903EAB38E0E95848C54F0FB4E71B508E6BA"
+      },
+      {
+        "Relative": "renders\\Phase4_Clay_Before.png",
+        "Length": 977291,
+        "SHA256": "DC231206C9308708074765CF3A446D3A405FFFF44BEAD0EBDFD04482AA355347"
+      },
+      {
+        "Relative": "renders\\Phase4_Hero.png",
+        "Length": 1104876,
+        "SHA256": "9AE7B0643AFC68D5E5154D16BECEA0D4EB1BDAB53FEBA203504BC6FE64EE3259"
+      },
+      {
+        "Relative": "renders\\closeups\\brass_trial.png",
+        "Length": 1456466,
+        "SHA256": "A58784EA403C2A3F3608A553E8F61B32BF77CECB96EBAF823761DD7946B5B202"
+      },
+      {
+        "Relative": "renders\\closeups\\canopy_trial.png",
+        "Length": 1318383,
+        "SHA256": "086D91FB64B3F64E2D19A2DAB1565B30D2582B15A7C53E754BA00CFD86656F31"
+      },
+      {
+        "Relative": "renders\\closeups\\potion_after.png",
+        "Length": 1230323,
+        "SHA256": "09F0BE1C057D2EBCC8B2E4BA555225B657891E487BC63165AB9192CBAF353307"
+      },
+      {
+        "Relative": "renders\\closeups\\potion_before.png",
+        "Length": 1211360,
+        "SHA256": "556D3AFB52B1D0F25BFB5F1D8A646407AAE29B14AAA2C223D675E65144905E62"
+      },
+      {
+        "Relative": "renders\\closeups\\wood_trial.png",
+        "Length": 1228466,
+        "SHA256": "634AA2B4BCDCE46EB4837EB6CDAA41822E76368732CAD0D0A132BA59759CD0D8"
+      },
+      {
+        "Relative": "renders\\hero\\trial_after_neutral.png",
+        "Length": 1236181,
+        "SHA256": "1D87FBAE6C5553419011915196C8BEF5A45F095393216D50A015A4D93244AEB3"
+      },
+      {
+        "Relative": "renders\\hero\\trial_before_neutral.png",
+        "Length": 1210347,
+        "SHA256": "50E5C5AB0F2D675EC46BA123CB9BE9D90D42B5D366A3B3DA72F7CB6F2E4F12D8"
+      },
+      {
+        "Relative": "renders\\material_tests\\brass_macro.png",
+        "Length": 691080,
+        "SHA256": "9249246721B459E5B4DA6752DDC4EF64D7419640FA0C9ADE90715BB7C1DF5EB8"
+      },
+      {
+        "Relative": "renders\\material_tests\\four_material_board.png",
+        "Length": 1024359,
+        "SHA256": "5DE18DDD588210F4F35BA3D24763E7D7E3BF2C63C4F2FD94022F63CD23818B5B"
+      },
+      {
+        "Relative": "renders\\material_tests\\glass_macro.png",
+        "Length": 613651,
+        "SHA256": "5422296175C56CC218CB7547268315748617CAB65FDAC2B2142D304D64E2E76E"
+      },
+      {
+        "Relative": "renders\\material_tests\\linen_macro.png",
+        "Length": 1179660,
+        "SHA256": "17BD3458FF91242C058146BEEFC677430E88F6C28EAE7E13506FD828CEC5EADE"
+      },
+      {
+        "Relative": "renders\\material_tests\\oak_macro.png",
+        "Length": 659012,
+        "SHA256": "C2BA3BC5D50337D3B39DF23DC388F124EAD8E4E0B208BE9C89D170E721E998F5"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\clay_front.png",
+        "Length": 1513552,
+        "SHA256": "CC83A7C9CAF38A96325ED753E6DF09796938D7E72DF4E634D7F5F1C8ABAB487E"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\clay_hero.png",
+        "Length": 1344103,
+        "SHA256": "4230F0A95389AF47033700301E23424088CEB28B25EB80B2E2F0DB008350F79D"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\clay_rear_threequarter.png",
+        "Length": 1317513,
+        "SHA256": "02D61BDB7A1CBC6A9CCCCD840ABD36BCAE834E645B903669ABFD314198003566"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\clay_rear.png",
+        "Length": 1426922,
+        "SHA256": "334D66E3636006277B4839D3EA25A7CF4BF24C38624EEDB5E5890B002E1470E8"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\clay_side.png",
+        "Length": 1325169,
+        "SHA256": "900E4C807AF607D00DFC0D6230945BA09BC266934A3399B76DD7781AEFBE6163"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\palette_front.png",
+        "Length": 1761811,
+        "SHA256": "872A5D7D33BB47B138ABD5BE0F8F87D5D7453DC19A340BAD84860C20DE2A599F"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\palette_hero.png",
+        "Length": 1669295,
+        "SHA256": "236B11F8D736154C59B9BDEC0AAE61F63D212CDE9C7A80C61EEA3367CFF91B74"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\palette_rear_threequarter.png",
+        "Length": 1623295,
+        "SHA256": "D8BEC39CD818E9F78944AE527ED1C7BE1C09BB9DB21C8999738CCCF30D81C1CE"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\palette_rear.png",
+        "Length": 1697653,
+        "SHA256": "E25851EF626D5C854D2E566BB4C135C2CBC15306AC6E119AC209F22E0C8350C5"
+      },
+      {
+        "Relative": "renders\\phase5_rework_stage_a\\palette_side.png",
+        "Length": 1566799,
+        "SHA256": "F09F0AA2E41F5ABF0F207EF498ACB93F0714B683E439D39BF6A0F7E2963EE6D3"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_before.png",
+        "Length": 1669295,
+        "SHA256": "716BDBD076041EF224DE46DEF23D856C295ADD82DBDD59DBBB676DEC727F09DF"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_hero.png",
+        "Length": 1663164,
+        "SHA256": "FE5A582EF0B4994A5ECC749654E92548609F49D974897AFBE20B2DC11C222B01"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_rear_door.png",
+        "Length": 2056082,
+        "SHA256": "1D403A1C0865F8FFC91E25CC2F7793A9A4E93DFD81735F198B9880C013689677"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_rear.png",
+        "Length": 1625396,
+        "SHA256": "0A2EDCAA29E4DD31A4FEC5197F40156B52DF1330AF7AA2FC7DFD02DEB87C0233"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_side.png",
+        "Length": 1549869,
+        "SHA256": "06DD63BA541E4453A9A5E77DF02E24C8F6979D54793C50AA15F2B4967B8D3137"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_wheel_closeup.png",
+        "Length": 2051021,
+        "SHA256": "812584AA1CC16AA7057CAA42AC8D4359A379EE7C748E7B6BD1207C0F06BA1E72"
+      },
+      {
+        "Relative": "renders\\phase6_wood\\wood_wood_closeup.png",
+        "Length": 2183378,
+        "SHA256": "5FD5BD3AB9E4EF27C726959DC80C6990AAC9DCC46540F0FB51A736AB1B46A8FB"
+      },
+      {
+        "Relative": "renders\\reference_comparison\\Stage2_Front.png",
+        "Length": 1120823,
+        "SHA256": "6BD7FDA63050F5DD5BF1C500E06C108DE077650D07588282454DD413FE29F120"
+      },
+      {
+        "Relative": "renders\\reference_comparison\\Stage2_Rear.png",
+        "Length": 1050923,
+        "SHA256": "27B3DE104734BC8C47A46FC73EAB4C5446E6DF430FFD8F1E208F58BE7FB12E9C"
+      },
+      {
+        "Relative": "renders\\reference_comparison\\Stage2_Side.png",
+        "Length": 963741,
+        "SHA256": "4EF04F08DB97392B5A42CDDF41AB4FC1CD39FB42620A8E09A663E88132FD32AA"
+      },
+      {
+        "Relative": "reports\\material_audit.json",
+        "Length": 3522,
+        "SHA256": "489050DA2918C2F6E7D1C4B27A32AC13BBA2A417FC88C2D128625D455B4ED5C1"
+      },
+      {
+        "Relative": "reports\\material_audit.md",
+        "Length": 301,
+        "SHA256": "6CD4ABDE087EAF713138F7783C7EFC7113AAB6B499E0FA5D8C3CAC0D293930E4"
+      },
+      {
+        "Relative": "reports\\material_sources.md",
+        "Length": 2984,
+        "SHA256": "4523EEF05D007CF75D47AEB2A483FCE474CE994A1DA37B1BFFCEA2A2445D424F"
+      },
+      {
+        "Relative": "reports\\Phase4_Geometry_QA.md",
+        "Length": 458,
+        "SHA256": "8C32A94DF0A2581DCDB1CC8626B119A6097A569F764D17DD438535FD0DA7B349"
+      },
+      {
+        "Relative": "reports\\Phase6_Wood_Map_QA_Final.json",
+        "Length": 7765,
+        "SHA256": "42564BD62520C35A2F42C7DC18697D1DB2BED092A5AFAE8E3A5D9F780D53DDDB"
+      },
+      {
+        "Relative": "reports\\Phase6_Wood_Map_QA.json",
+        "Length": 27546,
+        "SHA256": "1BFB4D08998AC94EDDE781016823DACDC8ADF1C48A39340946099F7E409341AF"
+      },
+      {
+        "Relative": "reports\\qa.md",
+        "Length": 1498,
+        "SHA256": "586207ED5E612B89B236999132357FD05037F95F16C43B91FB03EB78780EDF9A"
+      },
+      {
+        "Relative": "reports\\reference_comparison.md",
+        "Length": 1540,
+        "SHA256": "E173788332CF78EC66F5DA496DF364F75F75B43F7E4D10690CA5466D786FAF86"
+      },
+      {
+        "Relative": "reports\\Stage_A_Wheel_Transform_Check.json",
+        "Length": 1475,
+        "SHA256": "A8818D1B594F8881B984ACA25C6F1D2363271E4D89199B07D027D885C52B1F08"
+      },
+      {
+        "Relative": "Textures\\downloaded\\verified_manifest.json",
+        "Length": 5310,
+        "SHA256": "7DBBE5041F3192BD2EE2A648BF9A8B182963D05265FFB764E5F3B2481C338A9D"
+      },
+      {
+        "Relative": "Textures\\downloaded\\metal_plate_02\\metal_plate_02_diff_2k.jpg",
+        "Length": 2604239,
+        "SHA256": "2BF77BBCF18C862BF1E1501D1953CE9D511E80DF6305B46E2F38B788BD37B581"
+      },
+      {
+        "Relative": "Textures\\downloaded\\metal_plate_02\\metal_plate_02_nor_gl_2k.png",
+        "Length": 12046578,
+        "SHA256": "B6FCE599AEB0E92735E812B36BFEAB8E7F0029BD3B99747BFB2A456AB93A29FE"
+      },
+      {
+        "Relative": "Textures\\downloaded\\metal_plate_02\\metal_plate_02_rough_2k.jpg",
+        "Length": 3818263,
+        "SHA256": "7ABCCC92DFEBE4C6FD21B57B4DE659A3B8BE7747434AF39306FCFF2059927734"
+      },
+      {
+        "Relative": "Textures\\downloaded\\oak_veneer_01\\oak_veneer_01_diff_2k.jpg",
+        "Length": 2831117,
+        "SHA256": "0718C2E1A209AFE6138CCB41D70E1A18CD825D1E73DB33AD7CF80806FA9CE5A4"
+      },
+      {
+        "Relative": "Textures\\downloaded\\oak_veneer_01\\oak_veneer_01_nor_gl_2k.png",
+        "Length": 20978522,
+        "SHA256": "C26F922A75022C11243F351D348D1B5615E713F3787C76657FDB06047879B960"
+      },
+      {
+        "Relative": "Textures\\downloaded\\oak_veneer_01\\oak_veneer_01_rough_2k.jpg",
+        "Length": 3968436,
+        "SHA256": "5C81718EE172299C44E0754FADBE652758B6FEED05A8FD88BE6EFFF5AA70CA1E"
+      },
+      {
+        "Relative": "Textures\\downloaded\\rough_linen\\rough_linen_diff_2k.jpg",
+        "Length": 3607181,
+        "SHA256": "E71016E08DFEBEA1DD4E8A2A675E3B617A889A782AF782F1ABB795906F4DB1B4"
+      },
+      {
+        "Relative": "Textures\\downloaded\\rough_linen\\rough_linen_nor_gl_2k.png",
+        "Length": 22196908,
+        "SHA256": "1DE2D1E782A54340B9A047A78382C1A0218CC1933BDFFB331D6ED5FA2164E932"
+      },
+      {
+        "Relative": "Textures\\downloaded\\rough_linen\\rough_linen_rough_2k.jpg",
+        "Length": 4655974,
+        "SHA256": "48400D48FA203882BF5D984D5BEB2F95EDB1550309924601C018F2C4F3F80731"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Aged_Planks_BaseColor.png",
+        "Length": 2807443,
+        "SHA256": "81C76A89B12D8AB4312BD5776BD7DD2D801673BD6FB599FA4B1C3D095284FF52"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Aged_Planks_Height.png",
+        "Length": 682764,
+        "SHA256": "0C4D98627EA904E58750CF4EB484625EF578893BAB2B8DDC44A0BE8603707B08"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Aged_Planks_Normal.png",
+        "Length": 1435870,
+        "SHA256": "D346A4C67E986063AD5E08B1B6D7A7E50550553580D9EE0E50CEF957200070B3"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Aged_Planks_Roughness.png",
+        "Length": 642403,
+        "SHA256": "43C2EB919AC3E5D18C4E29229FB40375A77FC9C8EEBB9E3C41441A6DF98FD5A5"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Carved_Oak_BaseColor.png",
+        "Length": 3129926,
+        "SHA256": "51FE23CD789E4FEAD94D576606F4C681CC5F4FF23A63EF557BE2C7F35C3A401B"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Carved_Oak_Height.png",
+        "Length": 859376,
+        "SHA256": "6A444217341A6AB4782A242E0D7C8FFC0C26BF1971AFF6051F253B21B5A55933"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Carved_Oak_Normal.png",
+        "Length": 2003159,
+        "SHA256": "03E0DF32DFF4FF8D823CB6DFB96B97DCD0FD61E6C578244E9C33F09114070A90"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Carved_Oak_Roughness.png",
+        "Length": 806618,
+        "SHA256": "C9D8881A58F81B58773451B40902DE83482538F943AA44AECC99EF906E64446E"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Dark_Walnut_BaseColor.png",
+        "Length": 2005659,
+        "SHA256": "F64BFDAF26A2229AB199CCDF133CB1D39A167F7316C08077DD21B89F56682B84"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Dark_Walnut_Height.png",
+        "Length": 742499,
+        "SHA256": "9D59C2D600FF02B722109F3F4ECF6B4F8CCF84D4437910140E00ADF9D963B9DA"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Dark_Walnut_Normal.png",
+        "Length": 1679401,
+        "SHA256": "5B05DE774487775BA29033987836E8DE731B8CD5DE5704D131047EBDF7787302"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Dark_Walnut_Roughness.png",
+        "Length": 706006,
+        "SHA256": "38BF1F60B196F85BAE390E6E69B65512EE844D316A2EF4FACC22C01D4BCF1BF8"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Main_Oak_BaseColor.png",
+        "Length": 3008791,
+        "SHA256": "360A32DD5FC026041431747BAA3071F7D5D9E41F201FE0D59BB54EE7286CD0E6"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Main_Oak_Height.png",
+        "Length": 799144,
+        "SHA256": "FED9FAF777D2ADEE2CA4452FD21B7B613839D23B8904865B7671E0D5E7314610"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Main_Oak_Normal.png",
+        "Length": 1866886,
+        "SHA256": "24986BE1FE5A23B2436A8BF1130BA51D1B91CE02D3157A1A5D88E84E224F2DCB"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Main_Oak_Roughness.png",
+        "Length": 754444,
+        "SHA256": "A6F787319817AA40FB0A761AB3569343FF883E4BAB4756341606CF242411B73E"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Shelf_Oak_BaseColor.png",
+        "Length": 2732684,
+        "SHA256": "1D4E9182C30652316D18C9B212AA1B83446AF3FF5939647C3C5808B5311D1987"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Shelf_Oak_Height.png",
+        "Length": 915389,
+        "SHA256": "FB3BF285AB215C2CD5E21C4EAB8D162C559D22BFAB1A3BF4536208AA09380B8E"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Shelf_Oak_Normal.png",
+        "Length": 2245727,
+        "SHA256": "E96BFEBBC8FB52F015FED99605C459508AF0D68A2F2F311D2AEA0D79F2AD7A9F"
+      },
+      {
+        "Relative": "Textures\\Phase6_Wood\\Shelf_Oak_Roughness.png",
+        "Length": 860563,
+        "SHA256": "FCA92EF1550E3E7D2CD20FB2903325D54CA7A1DE26C53CC557171F31106A4FEE"
+      }
+    ]
+  },
+  {
+    "Source": "C:\\Users\\Admin\\Downloads\\tripo_pbr_model_14d23857-8311-470b-a053-77f7083d4962.glb",
+    "Target": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\References\\Models\\tripo_pbr_model_14d23857-8311-470b-a053-77f7083d4962.glb",
+    "Count": 1,
+    "Verified": true,
+    "Files": [
+      {
+        "Relative": "",
+        "Length": 69094420,
+        "SHA256": "83912A3EAC53552DB48953898180F96A4A04281491F6ACF7ADCBCC9A835EBE56"
+      }
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "material": "P65A_Antique_Brass_Trial",
+    "images": [
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_diff_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "sRGB",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_rough_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\metal_plate_02\\metal_plate_02_nor_gl_2k.png",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      }
+    ],
+    "assigned_objects": [
+      "Antique_Brass_Test",
+      "Layered_Hub"
+    ]
+  },
+  {
+    "material": "P65A_Cyan_Elixir",
+    "images": [],
+    "assigned_objects": [
+      "Glass_Test_Liquid",
+      "Potion_Trial_Inner_Liquid"
+    ]
+  },
+  {
+    "material": "P65A_Oak_Trial",
+    "images": [
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_diff_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "sRGB",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_rough_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\oak_veneer_01\\oak_veneer_01_nor_gl_2k.png",
+        "exists": true,
+        "size": [
+          2048,
+          2048
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      }
+    ],
+    "assigned_objects": [
+      "Oak_Test_Plank",
+      "Shop_Counter_Plank"
+    ]
+  },
+  {
+    "material": "P65A_Potion_Glass",
+    "images": [],
+    "assigned_objects": [
+      "Glass_Test_Shell",
+      "Potion_Trial_Glass_Shell"
+    ]
+  },
+  {
+    "material": "P65A_Teal_Linen_Trial",
+    "images": [
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_diff_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2052
+        ],
+        "color_space": "sRGB",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_rough_2k.jpg",
+        "exists": true,
+        "size": [
+          2048,
+          2052
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      },
+      {
+        "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\textures\\downloaded\\rough_linen\\rough_linen_nor_gl_2k.png",
+        "exists": true,
+        "size": [
+          2048,
+          2052
+        ],
+        "color_space": "Non-Color",
+        "linked": true
+      }
+    ],
+    "assigned_objects": [
+      "Draped_Canopy_Surface",
+      "Teal_Linen_Test_Drape"
+    ]
+  }
+]

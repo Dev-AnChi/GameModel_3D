@@ -1,0 +1,80 @@
+[
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist\\Blender\\Wandering_Alchemist_Phase_1_Concept.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Phase3A.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Phase3B.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Phase4_Geometry_Master.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Phase6_5_Premium.blend",
+    "updated_paths": [
+      "render:PHASE65A_MATERIAL_TEST",
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Phase6A_Wood.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Reference_Master.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_Reference_Rebuild.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_v2_Phase_1_Concept.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_v2_Phase_2_5_Pass_AB.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  },
+  {
+    "file": "C:\\Game\\GameModel_3D\\Wandering_Alchemist_v2\\Blender\\Wandering_Alchemist_v2_Phase_2_DetailMaterials.blend",
+    "updated_paths": [
+      "render:Scene"
+    ],
+    "missing_images": []
+  }
+]

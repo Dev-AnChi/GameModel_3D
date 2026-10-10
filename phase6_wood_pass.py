@@ -2,7 +2,7 @@
 """Original directional oak PBR maps, grain UV mapping and neutral review."""
 import bpy, numpy as np, math, os, json
 from mathutils import Vector
-ROOT=r'C:\Game\Commercial_3D\Wandering_Alchemist_v2'
+ROOT=r'C:\Game\GameModel_3D\Wandering_Alchemist_v2'
 TEX=os.path.join(ROOT,'Textures','Phase6_Wood')
 OUT=os.path.join(ROOT,'renders','phase6_wood')
 os.makedirs(TEX,exist_ok=True);os.makedirs(OUT,exist_ok=True)
